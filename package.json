@@ -10,7 +10,7 @@
     "build": "esbuild --bundle --sourcemap src/index.ts --outfile=dist/index.js --platform=node --target=node18,es2023"
   },
   "keywords": [],
-  "repository": "git@github.com:xsxz01/tsground_template.git",
+  "repository": "https://github.com/xsxz01/tsground_template.git",
   "author": "{{author}}",
   "license": "{{license}}",
   "dependencies": {
